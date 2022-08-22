@@ -1,3 +1,5 @@
+###
+
 <!--
 **luidne/luidne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luidne&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luidne&show_icons=true&locale=en&layout=compact&theme=dark" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luidne&count_private=true&show_icons=true" alt="akash-chowrasia" width="410" /></p>
-
-<hr>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luidne&count_private=true&show_icons=true&theme=dark" alt="akash-chowrasia" width="410" /></p>
